@@ -6,19 +6,19 @@ import ChatApp from './src/ChatApp';
 // Initialize Firebase
 
 // Import the functions you need from the SDKs you need
-import {initializeApp} from 'firebase/app';
+import { initializeApp } from "firebase/app";
 // TODO: Add SDKs for Firebase products that you want to use
 // https://firebase.google.com/docs/web/setup#available-libraries
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: 'AIzaSyArx1gF0aFnyOExqLtdVGwZK03-3TflPQY',
-  authDomain: 'chatappv2-10ec3.firebaseapp.com',
-  databaseURL: 'https://chatappv2-10ec3-default-rtdb.firebaseio.com',
-  projectId: 'chatappv2-10ec3',
-  storageBucket: 'chatappv2-10ec3.appspot.com',
-  messagingSenderId: '151530621910',
-  appId: '1:151530621910:web:1c30bb9319058e0f187277',
+  apiKey: "AIzaSyDFRBH7rn_b2OvKRetNXlM58C0mz4p7KJY",
+  authDomain: "react-chat-90955.firebaseapp.com",
+  databaseURL: "https://react-chat-90955-default-rtdb.firebaseio.com",
+  projectId: "react-chat-90955",
+  storageBucket: "react-chat-90955.appspot.com",
+  messagingSenderId: "497984503239",
+  appId: "1:497984503239:web:9684fe5f0a021492516de2"
 };
 
 // Initialize Firebase
